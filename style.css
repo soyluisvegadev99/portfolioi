@@ -3,3 +3,15 @@
       padding: 0;
       box-sizing: border-box;
 }
+.header{
+      background-color: #3c1053;
+      width: 75%;
+      height: 100vh;
+}
+.header ul li{
+      list-style: none;
+}
+.header ul li a{
+      color: aliceblue;
+      text-decoration: none;
+}
